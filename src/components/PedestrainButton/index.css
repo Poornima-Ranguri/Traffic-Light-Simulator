@@ -1,0 +1,9 @@
+.request-button {
+  padding: 3px;
+  font-family: "Bree Serif";
+  background-color: blanchedalmond;
+  font-weight: 500;
+
+  cursor: pointer;
+  outline: none;
+}

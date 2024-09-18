@@ -1,0 +1,9 @@
+.emergency-button {
+  padding: 3px;
+  font-family: "Bree Serif";
+  background-color: darkkhaki;
+  font-weight: 500;
+
+  cursor: pointer;
+  outline: none;
+}
